@@ -1,0 +1,5 @@
+docs:
+https://github.com/keikaavousi/fake-store-api
+
+api:
+https://fakestoreapi.com/products
